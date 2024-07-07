@@ -1,0 +1,6 @@
+package colors
+
+import "image/color"
+
+var LightGray = color.RGBA{0xA9, 0xA9, 0xA9, 0xff}
+var DarkGray = color.RGBA{0x33, 0x33, 0x33, 0xff}
